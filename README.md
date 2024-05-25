@@ -56,3 +56,7 @@ To use this code, follow these steps:
 git clone https://github.com/Bnrobertson/deep-learning-challenge.git
 cd deep-learning-challenge
 
+## References
+
+IRS. Tax Exempt Organization Search Bulk Data Downloads. https://www.irs.gov/ Links to an external site.
+
